@@ -7,6 +7,11 @@
 <p>This will execute the script</p>
 <p>To modify the input numbers, you can edit the arguments passed to the sayNumber function inside the console.log statements in the code.</p>
 
+<h3>Testing:</h3>
+<p>Mocha/chai were used as a test suite for this programme.</p>
+<p>To test the programme, please navigate to the Section C by typing "cd SectionC-option1"</p>
+<p>Thereafter, in your terminal, please type: npx mocha sayNumber.Test.js</p>
+
 ###worst-case space complexity of the solution
 
 We would need to analyze the memory usage as the input number increases.
